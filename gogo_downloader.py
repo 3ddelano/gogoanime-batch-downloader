@@ -2,8 +2,7 @@ from bs4 import BeautifulSoup
 import sys
 from pySmartDL import SmartDL
 from requests import get
-from os import system, path
-def clear(): return system('cls')
+from os import path
 
 
 clear()
