@@ -5,8 +5,6 @@ from requests import get
 from os import path
 
 
-clear()
-
 # INPUT VARS
 anime_url = ""
 start_ep = 1
