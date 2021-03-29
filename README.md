@@ -24,4 +24,7 @@ You also need to mention an output file name and folder path.
 <img src="https://i.imgur.com/X3oTgRf.png" width="700" title="file output">
 
 ## Disclaimer
-This is for educational purposes only I am not responsible for any harm / illegal activity done using this code.
+This repo/project was written as an educational intro to web-scraping and network analysis. It is provided publicly as a an open source project for nothing other than educational purposes. I do not take responsibility for how you use this software nor do I recommend you use it in any way that may infringe on any business.
+
+## Legal Warning
+This application is not endorsed or affiliated with any anime stream provider. The usage of this application enables episodes to be downloaded for offline convenience which may be forbidden by law in your country. Usage of this application may also cause a violation of the agreed Terms of Service between you and the stream provider. This tool is not responsible for your actions; please make an informed decision prior to using this application. Usage of third party programs and/or libraries may be forbidden in your country without proper consent of the copyright holder.
