@@ -14,17 +14,17 @@ output_name = "Aho Girl"
 output_folder = "D:\\Downloads\\Video"
 
 # GET INPUTS
-# anime_url = input(
-#     "Enter the URL of the 1st episode of the anime from GOGOANIME: ")
-# start_ep = int(input("Enter the starting epsiode number: "))
-# end_ep = int(input("Enter the ending episode number: "))
-# print("Enter the highest quality to get (if the mentioned quality is not found the lower quality will be selected)")
-# print("1. 240p  2. 360p  3. 480p  4. 720p  5. 1080p  6. HDP")
-# highest_quality = int(input("Enter a quality number from 1-6: "))-1
-# should_download = input(
-#     "Enter 1 if you want to download the episodes or Enter 2 if you want to only save the episode links to a txt file: ")
-# output_name = input("Enter the output file name: ")
-# output_folder = input("Enter the full path of the output folder: ")
+anime_url = input(
+    "Enter the URL of the 1st episode of the anime from GOGOANIME: ")
+start_ep = int(input("Enter the starting epsiode number: "))
+end_ep = int(input("Enter the ending episode number: "))
+print("Enter the highest quality to get (if the mentioned quality is not found the lower quality will be selected)")
+print("1. 240p  2. 360p  3. 480p  4. 720p  5. 1080p  6. HDP")
+highest_quality = int(input("Enter a quality number from 1-6: "))-1
+should_download = input(
+    "Enter 1 if you want to download the episodes or Enter 2 if you want to only save the episode links to a txt file: ")
+output_name = input("Enter the output file name: ")
+output_folder = input("Enter the full path of the output folder: ")
 
 found_error = False
 if len(anime_url) < 5:
