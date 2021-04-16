@@ -1,6 +1,8 @@
 # gogoanime-batch-downloader
 A python script to download anime episodes in any quality from Gogoanime.
-
+```diff
+- NOTE: Due to certain changes in GogoAnime some links may need Captcha verification and thus won't work with this script. To bypass this make sure to use "HDP" quality only.
+```
 # Installation
 Download the zip and extract it to a folder. Open a command prompt in that folder and and then `pip install -r requirements.txt` then `python gogo_downloader.py`.
 
